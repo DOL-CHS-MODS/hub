@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dol-chs-mods.github.io/hub/sitemap.xml
